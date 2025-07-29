@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>2025 Films Parallax</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <section class="parallax-bg"></section>
+
+  <section class="logo-layer" id="logos">
+    <img class="logo" src="https://deadline.com/wp-content/uploads/2024/07/superman-2025-logo-james-gunn.jpg?w=1024" />
+    <img class="logo" src="https://cdn.marvel.com/content/1x/thefantasticfourfirststeps_lob_log_def_03.png" />
+    <img class="logo" src="https://media-cache.cinematerial.com/p/500x/v36lfwvc/sinners-logo.jpg?v=1740562428" />
+  </section>
+
+  <section class="cinematic-text">
+    <h1>2025: A Stellar Year for Cinema</h1>
+    <p>The 2025 cinematic year promises to be a groundbreaking chapter in film history, with a diverse lineup of blockbusters, bold reboots, and genre-defining stories. From highly anticipated superhero epics like <em>Superman</em> to thrilling new entries in beloved franchises and chilling horror experiences like <em>Sinners</em>, this year’s releases blend innovation with nostalgia. Expect cutting-edge visual effects, compelling narratives, and performances that will captivate audiences worldwide. Scroll down to explore some of the standout films set to light up the silver screen in 2025!</p>
+  </section>
+
+  <section class="poster-gallery">
+    <div class="poster" style="background-image: url('https://a.ltrbxd.com/resized/film-poster/9/5/7/0/5/0/957050-superman-2025-0-1000-0-1500-crop.jpg?v=54e41a55ff')"></div>
+    <div class="poster" style="background-image: url('https://lumiere-a.akamaihd.net/v1/images/12_blue_teaser2_4x5_ig_2609a9ad.jpeg?region=0,0,1080,1350')"></div>
+    <div class="poster" style="background-image: url('https://i.ebayimg.com/00/s/MTM1MFgxMDAw/z/RikAAOSwllpntUTA/$_57.JPG?set_id=880000500F')"></div>
+    <div class="poster" style="background-image: url('https://m.media-amazon.com/images/M/MV5BNTBiYWJlMjQtOTIyMy00NTY4LWFhOWItOWZhNzc3NGMyMjc2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg')"></div>
+    <div class="poster" style="background-image: url('https://www.movieposters.com/cdn/shop/files/sinners_4d1dxqbd.jpg?vPherson1745244375')"></div>
+    <div class="poster" style="background-image: url('https://m.media-amazon.com/images/S/pv-target-images/b855b2b32a8e109f707705b77f0c4b8ca024c43510f55da75128db7cb3a8ee7d.jpg')"></div>
+  </section>
+
+  <script src="script.js"></script>
+</body>
+</html>
